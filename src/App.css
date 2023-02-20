@@ -1,0 +1,37 @@
+.lg-fs-32{
+  font-size: 32px;
+}
+
+.lg-fs-16-p{
+  font-size: 16px;
+  color: #595959;
+}
+
+.app-fs-16{
+  font-size: 16px;
+  color: #858585;
+}
+
+.app-fs-12{
+  font-size: 12px;
+  color: #A3A3A3;
+}
+
+.app-fs-16-selected{
+  font-size: 16px;
+  color: #1A1A1A;
+}
+
+.app-fs-12-selected{
+  font-size: 12px;
+  color: #73798C;
+}
+
+.selected-item{
+  background: #F8F8F6;
+  border-radius: 20px;
+}
+
+.cursor-p{
+  cursor: pointer;
+}
